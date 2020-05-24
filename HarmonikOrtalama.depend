@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587233501 source:c:\users\demon\codeblock workspace\harmonikortalama\main.c
+	<stdio.h>
+	<stdlib.h>
+
